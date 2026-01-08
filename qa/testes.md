@@ -21,6 +21,7 @@
 - Tarefa não é adicionada
 
 **Status:** Aprovado
+**Observações:** Bug BUG-01 corrigido e retestado
 
 ## CT-03 — Selecionar tarefa
 
@@ -28,7 +29,7 @@
 1. Marcar checkbox da tarefa
 
 **Resultado esperado:**
-- Tarefa fica riscado
+- Tarefa fica riscada
 
 **Status:** Aprovado
 
