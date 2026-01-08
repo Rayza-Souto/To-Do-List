@@ -43,3 +43,12 @@
 - Tarefa removida da lista
 
 **Status:** Aprovado
+
+## CT-DEPLOY-01 — Aplicação carrega no GitHub Pages
+
+**Passos:**
+1. Acessar a URL do projeto
+
+**Resultado esperado:**
+- Página carrega corretamente
+- Funcionalidades operam normalmente
